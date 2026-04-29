@@ -1,4 +1,4 @@
-# Tarek Benziada
+# Tarek Chaouki Benziada
 
 **Full Stack Developer • SaaS Builder • AI Automation Engineer**
 
