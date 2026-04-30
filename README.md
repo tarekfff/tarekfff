@@ -264,7 +264,7 @@ Browser-based design editor — no login required.
 
 <br/>
 
-<img src="https://visitcount.itsvg.in/api?id=tarekfff&icon=6&color=7" />
+ 
 
 </div>
 
