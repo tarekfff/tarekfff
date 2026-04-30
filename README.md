@@ -37,7 +37,7 @@
 
 ## 🧑‍💻 About Me
 
-```typescript
+ ```typescript
 const tarek = {
   name:        "Tarek Chaouki Benziada",
   role:        "Full Stack Developer · SaaS Builder · AI Automation Engineer",
