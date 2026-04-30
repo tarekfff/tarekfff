@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/Experience-3+Years-7c3aed?style=flat-square" />
   <img src="https://img.shields.io/badge/Projects-10+-7c3aed?style=flat-square" />
 </div>
-
+</div>
 ---
 
 ## 🧑‍💻 About Me
@@ -50,6 +50,7 @@ const tarek = {
   contact: "tarekchaouki66@gmail.com",
 };
 ```
+ 
  
 
 ---
