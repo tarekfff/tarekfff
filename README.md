@@ -2,8 +2,8 @@
 
 <div align="center">
 <div align="center">
-  <a href="typing-svg%20.gif">
-    <img src="typing-svg%20.gif" alt="Typing SVG" />
+  <a href="download.gif">
+    <img src="download.gif" alt="Typing SVG" />
   </a>
 </div>
 
