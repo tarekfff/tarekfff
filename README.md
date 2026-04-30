@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Tarek%20Chaouki%20Benziada&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20SaaS%20Builder%20%E2%80%A2%20AI%20Automation%20Engineer&descAlignY=58&descSize=16&descAlign=50" width="100%" />
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&random=false&width=650&lines=🚀+Building+AI-powered+SaaS+platforms;⚙️+Automating+everything+with+n8n+%26+OpenAI;🧠+Clean+architecture+%7C+Scalable+systems;💼+Open+to+remote+internships+%26+freelance+2026;💡+Turning+complex+ideas+into+production-ready+code" alt="Typing SVG" />
   </a>
 </div>
