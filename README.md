@@ -37,19 +37,20 @@
 
 ## 🧑‍💻 About Me
 
-```js
+```javascript
 const tarek = {
-  name:        "Tarek Chaouki Benziada",
-  role:        "Full Stack Developer · SaaS Builder · AI Automation Engineer",
-  education:   "Software Engineering — 4th Year",
-  location:    "Algeria 🇩🇿",
-  experience:  "3+ years  |  10+ real-world projects",
-  focus:       ["AI-powered SaaS platforms", "Automation pipelines", "Clean architecture"],
-  available:   "Remote internships & freelance (2026) 🌍",
-  philosophy:  "Build fast. Scale smart. Keep it simple.",
-  contact:     "tarekchaouki66@gmail.com",
+  name: "Tarek Chaouki Benziada",
+  role: "Full Stack Developer · SaaS Builder · AI Automation Engineer",
+  education: "Software Engineering — 4th Year",
+  location: "Algeria 🇩🇿",
+  experience: "3+ years | 10+ real-world projects",
+  focus: ["AI-powered SaaS platforms", "Automation pipelines", "Clean architecture"],
+  available: "Remote internships & freelance (2026) 🌍",
+  philosophy: "Build fast. Scale smart. Keep it simple.",
+  contact: "tarekchaouki66@gmail.com",
 };
 ```
+ 
 
 ---
 
