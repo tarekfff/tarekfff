@@ -3,7 +3,7 @@
 <div align="center">
 <div align="center">
   <a href="typing-svg%20.gif">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&random=false&width=650&lines=🚀+Building+AI-powered+SaaS+platforms;⚙️+Automating+everything+with+n8n+%26+OpenAI;🧠+Clean+architecture+%7C+Scalable+systems;💼+Open+to+remote+internships+%26+freelance+2026;💡+Turning+complex+ideas+into+production-ready+code" alt="Typing SVG" />
+    <img src="typing-svg%20.gif" alt="Typing SVG" />
   </a>
 </div>
 
